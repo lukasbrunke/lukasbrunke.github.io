@@ -11,49 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **PhD in Aerospace Science & Engineering, University of Toronto, since 2020 (expected 2024)**
+  * Supervised by Prof. Angela Schoellig
+* **M.Sc. in Mechatronics, Hamburg University of Technology, 2015 - 2018**
+  * Study Abroad: National University of Singapore, Spring 2016
+  * Study Abroad: University of California, Berkeley, Fall 2015
+* **B.Sc. in Mechanical Engineering, Hamburg University of Technology, 2012 - 2015**
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Vector Institute, Toronto, Summer 2020**
+  * Supervsied by Prof. Angela Schoellig
+  * Researched robust adaptive model predictive control for high performance stabilization of systems with uncertain dynamics
+* **Volkswagen Group of America, Belmont, CA, 2019 - 2020**
+  * Evaluated saliency methods for understanding convolutional neural networks' predictions
+* **Max Planck Institute for Intelligent Systems, Tübingen, Winter 2018**
+  * Supervised by Prof. Ludovic Righetti
+  * Generated optimal and feasible kinematic and dynamic movements for a quadruped robot using its centroidalmomentum dynamics
+  * Check out their [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/)
+* **University of California, Berkeley, 2017 - 2018**
+  * Supervised by Prof. Francesco Borrelli
+  * Researched learning model predictive controllers and applied findings to the Berkeley Autonomous Race Car (BARC)
+  * Check out their [BARC Project](https://sites.google.com/berkeley.edu/ugorosolia/barc-project?authuser=0)
+* **Volkswagen AG, Wolfsburg, 2016 - 2017**
+  * Developed a dynamic Bayesian network for lane change predictions based on highway driving data

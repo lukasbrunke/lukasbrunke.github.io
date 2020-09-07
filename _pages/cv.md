@@ -27,7 +27,7 @@ Work experience
   * Evaluated saliency methods for understanding convolutional neural networks' predictions
 * **Max Planck Institute for Intelligent Systems, Tübingen, Winter 2018**
   * Supervised by Prof. Ludovic Righetti
-  * Generated optimal and feasible kinematic and dynamic movements for a quadruped robot using its centroidalmomentum dynamics
+  * Generated optimal and feasible kinematic and dynamic movements for a quadruped robot using its centroidal momentum dynamics
   * Check out their [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/)
 * **University of California, Berkeley, 2017 - 2018**
   * Supervised by Prof. Francesco Borrelli

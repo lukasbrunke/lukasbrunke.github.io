@@ -17,6 +17,8 @@ author_profile: true
 
 Journal Papers
 ======
+K. Pereida, L. Brunke, A.P. Schoellig, "Robust adaptive model predictive control for guaranteed fast and accurate stabilization in the presence of model errors," Int J Robust Nonlinear Control, 2021;1–35. [[paper](https://doi.org/10.1002/rnc.5712)]
+
 M. Cordes, L. Brunke, and W. Hintze, "Correction to: Offline simulation of path deviation due to joint compliance and hysteresis for robot machining," The International Journal of Advanced Manufacturing Technology, 2019. [[pdf](https://link.springer.com/article/10.1007%2Fs00170-019-04524-1)]
 
 Conference Papers

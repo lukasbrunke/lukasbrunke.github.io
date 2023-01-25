@@ -20,9 +20,15 @@ Education
 
 Work experience
 ======
-* **Vector Institute, Toronto, Summer 2020**
+* **Technical University of Munich, Munich, since 2022**
+  * Supervised by Prof. Angela Schoellig
+  * Research fellow
+* **Vector Institute, Toronto, since 2020**
   * Supervsied by Prof. Angela Schoellig
-  * Researched robust adaptive model predictive control for high performance stabilization of systems with uncertain dynamics
+  * Postgraduate student researcher
+* **Waabi, Toronto, Summer 2022**
+  * Supervised by Prof. Raquel Urtasun
+  * Worked on vehicle dynamics and vehicle control for autonomous trucks
 * **Volkswagen Group of America, Belmont, CA, 2019 - 2020**
   * Evaluated saliency methods for understanding convolutional neural networks' predictions
 * **Max Planck Institute for Intelligent Systems, Tübingen, Winter 2018**

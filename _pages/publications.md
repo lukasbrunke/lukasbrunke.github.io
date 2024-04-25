@@ -31,7 +31,9 @@ M. Cordes, L. Brunke, and W. Hintze, "Correction to: Offline simulation of path 
 
 Conference Papers
 ======
-R. Römer, L. Brunke, S. Zhou, A. P. Schoellig "Is Data All That Matters? The Role of Control Frequency for Learning-Based Sampled-Data Control of Uncertain Systems," in 2024 IEEE American Control Conference, 2024 (to appear). [[paper](https://arxiv.org/abs/2403.09504)]
+L. Brunke, S. Zhou, M. Che, A.P. Schoellig, "Practical Considerations for Discrete-Time Implementations of Continuous-Time Control Barrier Function-Based Safety Filters," in 2024 IEEE American Control Conference, 2024 (to appear). [[preprint](https://arxiv.org/abs/2404.12329)] [[video](https://youtu.be/HHRuplyWFVg?si=ejbl9RbnUWFC2G9h)]
+
+R. Römer, L. Brunke, S. Zhou, A. P. Schoellig "Is Data All That Matters? The Role of Control Frequency for Learning-Based Sampled-Data Control of Uncertain Systems," in 2024 IEEE American Control Conference, 2024 (to appear). [[preprint](https://arxiv.org/abs/2403.09504)]
 
 F. Pizarro Bejarano, L. Brunke, A.P. Schoellig, "Multi-Step Model Predictive Safety Filters: Reducing Chattering by Increasing the Prediction Horizon," in Proceedings of the 62nd IEEE Conference on Decision and Control, 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10383734)] [[preprint](https://arxiv.org/abs/2309.11453)] [[video](https://www.youtube.com/watch?v=l1F4A1HIIIM)]
 
@@ -43,6 +45,8 @@ L. Brunke, S. Zhou, A.P. Schoellig, "RLO-MPC: Robust Learning-Based Output Feedb
 
 Workshop Papers
 ======
+R. Römer, L. Brunke, M. Schuck, A. P. Schoellig "Safe Offline Reinforcement Learning using Trajectory-Level Diffusion Models," in ICRA 2024 Workshop—Back to the Future: Robot Learning Going Probabilistic, 2024. [[preprint](https://openreview.net/pdf?id=o575pIMeEz)]
+
 A. Jiao, T.P. Patel, S. Khurana, A. Korol, L. Brunke, V. K. Adajania, U. Culha, S. Zhou, A.P. Schoellig, "Swarm-GPT: Combining Large Language Models with Safe Motion Planning for Robot Choreography Design," in 6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models, 2023. [[preprint](https://arxiv.org/abs/2312.01059)]
 
 L. Brunke, P. Agrawal, N. George, "Evaluating Input Perturbation Methods for Interpreting CNNs and Saliency Map Comparison," in Proceedings of the European Conference on Computer Vision (ECCV) Workshops, 2020; 12535: 120-134. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-66415-2_8)] [[preprint](https://arxiv.org/abs/2101.10977)]

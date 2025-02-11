@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **PhD in Aerospace Science & Engineering, University of Toronto, since 2020 (expected 2024)**
+* **PhD in Aerospace Science & Engineering, University of Toronto, since 2020**
   * Supervised by Prof. Angela Schoellig
 * **M.Sc. in Mechatronics, Hamburg University of Technology, 2015 - 2018**
   * Study Abroad: National University of Singapore, Spring 2016

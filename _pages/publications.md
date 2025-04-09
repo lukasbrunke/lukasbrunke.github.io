@@ -17,9 +17,9 @@ author_profile: true
 
 Journal Papers
 ======
-L. Brunke, Y. Zhang, R. Römer, J. Naimer, N. Staykov, S. Zhou, A.P. Schoellig, "Semantically safe robot manipulation: From semantic scene understanding to motion safeguards," in IEEE Robotics and Automation Letters, vol. 10, no. 5, pp. 4810-4817, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10933541)] [[preprint](https://arxiv.org/abs/2410.15185)] [[video](https://www.youtube.com/watch?v=sL9iW_3nJvQ&t=2s)] [[website](beyondcollision.com)]
+L. Brunke, Y. Zhang, R. Römer, J. Naimer, N. Staykov, S. Zhou, A.P. Schoellig, "Semantically safe robot manipulation: From semantic scene understanding to motion safeguards," in IEEE Robotics and Automation Letters, vol. 10, no. 5, pp. 4810-4817, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10933541)] [[preprint](https://arxiv.org/abs/2410.15185)] [[video](https://www.youtube.com/watch?v=sL9iW_3nJvQ&t=2s)] [[website](https://beyondcollision.com)]
 
-S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, M. Schuck, W. Hönig, J. Panerati, A.P. Schoellig, "Advancing Reproducibility, Benchmarks, and Education With Remote Sim2real: Remote Simulation to Real Robot Hardware," in in IEEE Robotics & Automation Magazine, vol. 32, no. 1, pp. 117-123, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10931186)]
+S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, M. Schuck, W. Hönig, J. Panerati, A.P. Schoellig, "Advancing Reproducibility, Benchmarks, and Education With Remote Sim2real: Remote Simulation to Real Robot Hardware," in IEEE Robotics & Automation Magazine, vol. 32, no. 1, pp. 117-123, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10931186)]
 
 F. Pizarro Bejarano, L. Brunke, A.P. Schoellig, "Safety Filtering While Training: Improving the Performance and Sample Efficiency of Reinforcement Learning Agents, " in IEEE Robotics and Automation Letters, , vol. 10, no. 1, pp. 788-795, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10778608)] [[preprint](https://arxiv.org/abs/2410.11671)] [[video](https://www.youtube.com/watch?v=3Z96M8P26mI)]
 
@@ -37,9 +37,9 @@ M. Cordes, L. Brunke, and W. Hintze, "Correction to: Offline simulation of path 
 
 Conference Papers
 ======
-L. Brunke, S. Zhou, M. Che, A.P. Schoellig, "Practical Considerations for Discrete-Time Implementations of Continuous-Time Control Barrier Function-Based Safety Filters," in 2024 IEEE American Control Conference, 2024 (to appear). [[preprint](https://arxiv.org/abs/2404.12329)] [[video](https://youtu.be/HHRuplyWFVg?si=ejbl9RbnUWFC2G9h)] [[talk](https://www.youtube.com/watch?v=7XXyp-vtqKQ)]
+L. Brunke, S. Zhou, M. Che, A.P. Schoellig, "Practical Considerations for Discrete-Time Implementations of Continuous-Time Control Barrier Function-Based Safety Filters," in 2024 IEEE American Control Conference, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10644713)] [[preprint](https://arxiv.org/abs/2404.12329)] [[video](https://youtu.be/HHRuplyWFVg?si=ejbl9RbnUWFC2G9h)] [[talk](https://www.youtube.com/watch?v=7XXyp-vtqKQ)]
 
-R. Römer, L. Brunke, S. Zhou, A. P. Schoellig "Is Data All That Matters? The Role of Control Frequency for Learning-Based Sampled-Data Control of Uncertain Systems," in 2024 IEEE American Control Conference, 2024 (to appear). [[preprint](https://arxiv.org/abs/2403.09504)] [[talk](https://www.youtube.com/watch?v=c6safL3RgFM)]
+R. Römer, L. Brunke, S. Zhou, A. P. Schoellig "Is Data All That Matters? The Role of Control Frequency for Learning-Based Sampled-Data Control of Uncertain Systems," in 2024 IEEE American Control Conference, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10644546)] [[preprint](https://arxiv.org/abs/2403.09504)] [[talk](https://www.youtube.com/watch?v=c6safL3RgFM)]
 
 F. Pizarro Bejarano, L. Brunke, A.P. Schoellig, "Multi-Step Model Predictive Safety Filters: Reducing Chattering by Increasing the Prediction Horizon," in Proceedings of the 62nd IEEE Conference on Decision and Control, 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10383734)] [[preprint](https://arxiv.org/abs/2309.11453)] [[video](https://www.youtube.com/watch?v=l1F4A1HIIIM)]
 

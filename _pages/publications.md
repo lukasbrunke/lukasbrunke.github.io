@@ -17,6 +17,10 @@ author_profile: true
 
 Journal Papers
 ======
+B. Bogenberger, O. Harrison, O. Dahanaggamaarachchi, L. Brunke, J. Qian, S. Zhou, A.P. Schoellig, "Where Did I Leave My Glasses? Open-Vocabulary Semantic Exploration in Real-World Semi-Static Environments," in IEEE Robotics and Automation Letters, vol. 11, no. 3, pp. 3342-3349, 2026. [[paper](https://ieeexplore.ieee.org/document/11359697)] [[preprint](https://arxiv.org/abs/2509.19851)] [[video](https://www.youtube.com/watch?v=nUouwHUZPWQ)] [[code](https://github.com/utiasDSL/perceive_semantix_release)]
+
+L. Brunke, S. Zhou, A.P. Schoellig, "Preventing Inactive CBF Safety Filters Caused by Incorrect Relative Degree Assumptions," in IEEE Transactions on Automatic Control, vol. 71, no. 1, pp. 700-707, 2026. [[paper](https://ieeexplore.ieee.org/document/11155175)] [[preprint](https://arxiv.org/abs/2409.11171)] [[video](https://www.youtube.com/watch?v=V6XuLyLdVqo)] [[code](https://github.com/lukasbrunke/multi-cbf)]
+
 L. Brunke, Y. Zhang, R. Römer, J. Naimer, N. Staykov, S. Zhou, A.P. Schoellig, "Semantically safe robot manipulation: From semantic scene understanding to motion safeguards," in IEEE Robotics and Automation Letters, vol. 10, no. 5, pp. 4810-4817, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10933541)] [[preprint](https://arxiv.org/abs/2410.15185)] [[video](https://www.youtube.com/watch?v=sL9iW_3nJvQ&t=2s)] [[website](https://beyondcollision.com)]
 
 S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, M. Schuck, W. Hönig, J. Panerati, A.P. Schoellig, "Advancing Reproducibility, Benchmarks, and Education With Remote Sim2real: Remote Simulation to Real Robot Hardware," in IEEE Robotics & Automation Magazine, vol. 32, no. 1, pp. 117-123, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10931186)]
@@ -37,6 +41,8 @@ M. Cordes, L. Brunke, and W. Hintze, "Correction to: Offline simulation of path 
 
 Conference Papers
 ======
+H. Zhao, N. Schlüter, L. Brunke, A.P. Schoellig, "Improving Drone Racing Performance Through Iterative Learning MPC," in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 6667-6674, 2025. [[paper](https://ieeexplore.ieee.org/document/11246700)] [[preprint](https://arxiv.org/abs/2508.01103)] [[video](https://www.youtube.com/watch?v=ZIVtAFOpe-Y)]
+
 L. Brunke, S. Zhou, M. Che, A.P. Schoellig, "Practical Considerations for Discrete-Time Implementations of Continuous-Time Control Barrier Function-Based Safety Filters," in 2024 IEEE American Control Conference, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10644713)] [[preprint](https://arxiv.org/abs/2404.12329)] [[video](https://youtu.be/HHRuplyWFVg?si=ejbl9RbnUWFC2G9h)] [[talk](https://www.youtube.com/watch?v=7XXyp-vtqKQ)]
 
 R. Römer, L. Brunke, S. Zhou, A. P. Schoellig "Is Data All That Matters? The Role of Control Frequency for Learning-Based Sampled-Data Control of Uncertain Systems," in 2024 IEEE American Control Conference, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10644546)] [[preprint](https://arxiv.org/abs/2403.09504)] [[talk](https://www.youtube.com/watch?v=c6safL3RgFM)]
@@ -51,6 +57,8 @@ L. Brunke, S. Zhou, A.P. Schoellig, "RLO-MPC: Robust Learning-Based Output Feedb
 
 Workshop Papers
 ======
+F. Pizarro Bejarano, L. Brunke, A.P. Schoellig, "Subsystem Safety Filtering: A Unified Framework for Safe Shared Control in Coupled Robotic Systems," in IROS 2025 Workshop "The Art of Robustness: Surviving Failures in Robotics," 2025.
+
 R. Römer, L. Brunke, M. Schuck, A. P. Schoellig "Safe Offline Reinforcement Learning using Trajectory-Level Diffusion Models," in ICRA 2024 Workshop—Back to the Future: Robot Learning Going Probabilistic, 2024. [[preprint](https://openreview.net/pdf?id=o575pIMeEz)]
 
 A. Jiao, T.P. Patel, S. Khurana, A. Korol, L. Brunke, V. K. Adajania, U. Culha, S. Zhou, A.P. Schoellig, "Swarm-GPT: Combining Large Language Models with Safe Motion Planning for Robot Choreography Design," in 6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models, 2023. [[preprint](https://arxiv.org/abs/2312.01059)]
@@ -59,9 +67,9 @@ L. Brunke, P. Agrawal, N. George, "Evaluating Input Perturbation Methods for Int
 
 Preprints
 ======
-L. Brunke, S. Zhou, F. D'Orazio, A.P. Schoellig, "Addressing Relative Degree Issues in Control Barrier Function Synthesis with Physics-Informed Neural Networks," 2025. [[preprint](https://arxiv.org/abs/2504.06242)] [[video](https://www.youtube.com/watch?v=bxGFtq1PIgM)]
+H. Zhao\*, L. Brunke\*, O. Lagerquist, S. Zhou, A.P. Schoellig, "SQ-CBF: Signed Distance Functions for Numerically Stable Superquadric-Based Safety Filtering," 2026. [[preprint](https://arxiv.org/abs/2602.11049)] [[video](https://www.youtube.com/watch?v=CB6HWP9RiTM)] (\*equal contribution)
 
-L. Brunke, S. Zhou, A.P. Schoellig, "Preventing Unconstrained CBF Safety Filters Caused by Invalid Relative Degree Assumptions," 2024. [[preprint](https://arxiv.org/abs/2409.11171)] [[video](https://www.youtube.com/watch?v=V6XuLyLdVqo)]
+L. Brunke, S. Zhou, F. D'Orazio, A.P. Schoellig, "Addressing Relative Degree Issues in Control Barrier Function Synthesis with Physics-Informed Neural Networks," 2025. [[preprint](https://arxiv.org/abs/2504.06242)] [[video](https://www.youtube.com/watch?v=bxGFtq1PIgM)]
 
 S. Teetaert, W. Zhao, N. Xinyuan, H. Zahir, H. Leong, M. Hidalgo, G. Puga, T. Lorente, N. Espinosa, J.A. Duarte Carrasco, K. Zhang, J. Di, T. Jin, X. Li, Y. Zhou, X. Liang, C. Zhang, A. Loquercio, S. Zhou, L. Brunke, M. Greeff, W. Hoenig, J. Panerati, A.P. Schoellig, "A Remote Sim2real Aerial Competition: Fostering Reproducibility and Solutions' Diversity in Robotics Challenges," 2023. [[preprint](https://arxiv.org/abs/2308.16743)]
 

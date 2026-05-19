@@ -26,7 +26,7 @@ Work experience
 ======
 * **University of Toronto & Technical University of Munich, since 2020**
   * Supervised by Prof. Angela Schoellig
-  * Leading a team developing embodied chain-of-thought reasoning for safe robot foundation models; secured 120k GPU hours across three EuroHPC compute grants
+  * Developing embodied chain-of-thought reasoning for safe robot foundation models; secured 120k GPU hours across three EuroHPC compute grants
   * Integrated vision-language models with safety filters to enforce semantic constraints (e.g., spill avoidance, unsafe tool handling) -- one of the first systems to move beyond geometric collision avoidance for manipulation
   * Developed a real-time CBF-based safety filter for whole-body collision avoidance on a robot manipulator using onboard perception
   * Closed a key gap between continuous-time CBF theory and discrete-time implementation for safe deployment on real robots
